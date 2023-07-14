@@ -1,16 +1,15 @@
-### Hi there 👋
+## CP Experiences
 
-<!--
-**CodeCamper-Sub/CodeCamper-Sub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="float: left; margin-right: 18px">
 
-Here are some ideas to get you started:
+[![CodeForces Profile](https://raw.githubusercontent.com/CodeCamper-Sub/cf-stats/main/output/light_card.svg)](https://codeforces.com/profile/jbhus)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+<div style="margin-top: 22px;">
+
+<a href="https://atcoder.jp/users/jbhus" target="_blank" title="jbhus"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fjbhus" /></a>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksrudtn99)](https://solved.ac/gksrudtn99/)
+
+</div>
